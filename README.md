@@ -1,2 +1,2 @@
-# react-firts-expertGif
-# gif-expert-app
+# Primera app hecha con react + vite
+
